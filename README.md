@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Oreva 👨🏽‍💻
 
-Welcome to my code corner of the internet — where pixels meet intelligence and side projects never sleep. I'm a **Full-Stack Developer** who blends clean code with smart AI tools to build web apps that *actually solve problems*.
+Welcome to my code corner of the interne where pixels meet intelligence and side projects never sleep. I'm a **Full-Stack Developer** who blends clean code with smart AI tools to build web apps that *actually solve problems*.
 
 ---
 

@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Web Developer | UI/UX Enthusiast | AI Innovator**  
 
-I design and build **responsive, high-performing websites and applications** that not only look great but also deliver measurable results — from **boosting SEO by 40%** to **improving load speeds by 35%**.  
+I design and build **responsive, high-performing websites and applications** that not only look great but also deliver measurable results from **boosting SEO by 40%** to **improving load speeds by 35%**.  
 
 With 5+ years of experience across **e-commerce, health tech, AI-powered apps, and nonprofit platforms**, I thrive on projects where **design meets functionality**.  
 

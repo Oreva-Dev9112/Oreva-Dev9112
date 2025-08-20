@@ -1,62 +1,57 @@
-# Hey there! 👋 I'm Oreva 👨🏽‍💻
+# 👋 Hi, I’m Oreva 👨🏽‍💻  
 
-Welcome to my code corner of the interne where pixels meet intelligence and side projects never sleep. I'm a **Full-Stack Developer** who blends clean code with smart AI tools to build web apps that *actually solve problems*.
+🚀 **Full-Stack Web Developer | UI/UX Enthusiast | AI Innovator**  
 
----
+I design and build **responsive, high-performing websites and applications** that not only look great but also deliver measurable results — from **boosting SEO by 40%** to **improving load speeds by 35%**.  
 
-## 🔭 Currently Brewing ☕
-🚀 A smart **AI travel planner** that takes your dream destination and builds your itinerary using **GPT-4o + weather data**  
-✈️ An intelligent **AI concierge** for flight bookings (yes, even private jets 😎)
+With 5+ years of experience across **e-commerce, health tech, AI-powered apps, and nonprofit platforms**, I thrive on projects where **design meets functionality**.  
 
 ---
 
-## 💡 What I'm Into
-- Making **AI do the boring stuff** so I can focus on building cool things
-- **React, Laravel, Node.js, Tailwind** – I speak fluent frontend *and* backend
-- Projects that are **useful, scalable, and cleanly built**
-- All things **automation, APIs, and open-source**
+## 🛠️ Tech Stack  
+
+**Frontend:** React.js · Next.js · TypeScript · TailwindCSS · Framer Motion  
+**Backend:** Node.js · Express.js · PHP · MySQL · MongoDB  
+**CMS & E-Commerce:** WordPress · WooCommerce · Shopify (learning)  
+**Cloud & DevOps:** AWS · Vercel · Docker · Firebase · CI/CD  
+**Other Tools:** Git · GitHub · Jira · Figma · Adobe Creative Suite  
 
 ---
 
-## 🌱 Leveling Up With
-- Prompt engineering magic 🪄
-- LangChain-powered AI agents 🤖
-- Scalable SaaS architecture (cloud-flex, baby ☁️)
+## 🌟 Featured Projects  
+
+- **[Smart Travel AI](https://smart-travel-ai.vercel.app/)** – AI-powered luxury travel planner (Next.js 14, TypeScript, OpenAI API, Framer Motion). Generates itineraries with PDF export & animations. [GitHub](https://lnkd.in/eksXi8-x)  
+- **[The Gani Odutokun Foundation](https://theganiodutokunfoundation.com/)** – Cultural nonprofit site (WordPress). Content-rich, accessible, and branding-focused.  
+- **[Bomaret Engineering](https://bomaretengineering.com/)** – Corporate engineering firm site (WordPress). Professional multi-page B2B presence.  
+- **MediMatch** – Healthcare scheduling app (React, Node.js, MongoDB). Secure API-driven scheduling.  
+- **Break Buddy** – Wellness productivity timer (React + TypeScript + Framer Motion). UX-first design with animations.  
 
 ---
 
-## 👯 Let’s Build Together!
-If you’ve got an idea for:
-- An AI-powered side project
-- A dev tool that makes coding easier
-- Or just something weird and wonderful...
-  
-**I'm in. Let's collab!** 🤝
+## 🎯 What I Bring  
+
+✔️ **Client-Facing Experience** – Delivered 35+ projects for SMEs, non-profits, and startups.  
+✔️ **Design-Led Development** – Responsive, WCAG-compliant, with a focus on accessibility and animations.  
+✔️ **E-Commerce Ready** – WooCommerce expertise, Shopify demo in progress.  
+✔️ **AI & APIs** – Integrated OpenAI API, payment gateways, REST APIs.  
 
 ---
 
-## 📫 Find Me In the Wild
+## 🌱 Currently Exploring  
+
+- Building a **Shopify demo project** (custom theme + checkout flow).  
+- Adding a **GraphQL API project** for portfolio balance.  
+- Experimenting with **Framer Motion & GSAP animations** for richer UX.  
+
+---
+
+## 📫 Let’s Connect  
+
 📩 orevadavidumolo@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/oreva-umolo-09a377330)  
-🌍 [Portfolio](https://oreva-dev9112.github.io/oreva.dev/)
+🌍 [Portfolio](https://oreva-dev9112.github.io/oreva.dev/)  
+💻 [GitHub](https://github.com/Oreva-Dev9112)  
+💼 [LinkedIn](https://linkedin.com/in/oreva-umolo-09a377330/)  
 
 ---
 
-## 😄 Pronouns
-He / Him / The Dev Who Talks to AI
-
----
-
-## ⚡ Fun Fact
-I once built an AI quiz generator for schools...  
-Now it’s used by 3 institutions across 2 countries.  
-*Big brain stuff, small beginnings.* 🧠✨
-
----
-
-_“Code like a poet. Build like an engineer. Think like a user.”_
-
-<!---
-Oreva-Dev9112/Oreva-Dev9112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ *“Code like a poet. Build like an engineer. Think like a user.”*  

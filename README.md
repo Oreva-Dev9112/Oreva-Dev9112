@@ -1,57 +1,74 @@
-# 👋 Hi, I’m Oreva 👨🏽‍💻  
+<div align="center">
 
-🚀 **Full-Stack Web Developer | UI/UX Enthusiast | AI Innovator**  
+# Oreva
 
-I design and build **responsive, high-performing websites and applications** that not only look great but also deliver measurable results from **boosting SEO by 40%** to **improving load speeds by 35%**.  
+**Full-stack developer working across AI, data, dashboards, and product-focused web apps.**
 
-With 5+ years of experience across **e-commerce, health tech, AI-powered apps, and nonprofit platforms**, I thrive on projects where **design meets functionality**.  
+I like building useful software: interfaces that feel considered, systems that are easy to maintain, and data products that help people make decisions faster.
 
----
+[Portfolio](https://github.com/Oreva-Dev9112/portfolio) · [LinkedIn](https://linkedin.com/in/oreva-umolo-09a377330) · [Email](mailto:orevadavidumolo@gmail.com)
 
-## 🛠️ Tech Stack  
-
-**Frontend:** React.js · Next.js · TypeScript · TailwindCSS · Framer Motion  
-**Backend:** Node.js · Express.js · PHP · MySQL · MongoDB  
-**CMS & E-Commerce:** WordPress · WooCommerce · Shopify (learning)  
-**Cloud & DevOps:** AWS · Vercel · Docker · Firebase · CI/CD  
-**Other Tools:** Git · GitHub · Jira · Figma · Adobe Creative Suite  
+</div>
 
 ---
 
-## 🌟 Featured Projects  
+## What I Work On
 
-- **[Smart Travel AI](https://smart-travel-ai.vercel.app/)** – AI-powered luxury travel planner (Next.js 14, TypeScript, OpenAI API, Framer Motion). Generates itineraries with PDF export & animations. [GitHub](https://lnkd.in/eksXi8-x)  
-- **[The Gani Odutokun Foundation](https://theganiodutokunfoundation.com/)** – Cultural nonprofit site (WordPress). Content-rich, accessible, and branding-focused.  
-- **[Bomaret Engineering](https://bomaretengineering.com/)** – Corporate engineering firm site (WordPress). Professional multi-page B2B presence.  
-- **MediMatch** – Healthcare scheduling app (React, Node.js, MongoDB). Secure API-driven scheduling.  
-- **Break Buddy** – Wellness productivity timer (React + TypeScript + Framer Motion). UX-first design with animations.  
+- Full-stack applications with React, Next.js, Node.js, PHP, and SQL.
+- Data reporting, dashboards, and analytics workflows with Python, SQL, Tableau, and Power BI.
+- AI-assisted products, evaluation workflows, automation, and practical tool-building.
+- Websites and platforms for businesses, schools, nonprofits, consultants, and internal teams.
 
----
+## Current Focus
 
-## 🎯 What I Bring  
+I am refining my work around the overlap between software, data, and AI systems. Recent work has included inventory dashboards, reporting interfaces, AI evaluation tasks, content-driven sites, and small product experiments.
 
-✔️ **Client-Facing Experience** – Delivered 35+ projects for SMEs, non-profits, and startups.  
-✔️ **Design-Led Development** – Responsive, WCAG-compliant, with a focus on accessibility and animations.  
-✔️ **E-Commerce Ready** – WooCommerce expertise, Shopify demo in progress.  
-✔️ **AI & APIs** – Integrated OpenAI API, payment gateways, REST APIs.  
+I care about the parts that make software actually usable: clear structure, reliable data, sensible UI states, fast loading, and copy that sounds like a person wrote it.
 
----
+## Stack
 
-## 🌱 Currently Exploring  
+**Frontend**  
+React · Next.js · TypeScript · Tailwind CSS · Framer Motion
 
-- Building a **Shopify demo project** (custom theme + checkout flow).  
-- Adding a **GraphQL API project** for portfolio balance.  
-- Experimenting with **Framer Motion & GSAP animations** for richer UX.  
+**Backend & Data**  
+Node.js · PHP · MySQL · PostgreSQL · Python · SQL
 
----
+**AI & Automation**  
+OpenAI APIs · evaluation workflows · scripting · internal tools
 
-## 📫 Let’s Connect  
+**Analytics & Product Tools**  
+Tableau · Power BI · Figma · Vercel · Docker · GitHub Actions
 
-📩 orevadavidumolo@gmail.com  
-🌍 [Portfolio](https://oreva-dev9112.github.io/oreva.dev/)  
-💻 [GitHub](https://github.com/Oreva-Dev9112)  
-💼 [LinkedIn](https://linkedin.com/in/oreva-umolo-09a377330/)  
+## Selected Work
 
----
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Smart Travel](https://github.com/Oreva-Dev9112/portfolio) | AI travel planning concept that turns a prompt into a usable itinerary. | Next.js · OpenAI · Tailwind |
+| [The Gani Odutokun Foundation](https://theganiodutokunfoundation.com/) | Art foundation site with galleries, events, and programme content. | WordPress · CMS · Web |
+| [Bomaret Engineering](https://bomaretengineering.com/) | Corporate site for an engineering firm with project and service pages. | WordPress · Web |
+| [New Era Model Schools](https://neweramodelschools.com/) | School platform for e-learning, applications, timetables, and daily admin. | PHP · MySQL · Bootstrap |
 
-✨ *“Code like a poet. Build like an engineer. Think like a user.”*  
+## A Few Numbers
+
+- 5+ years building and shipping software projects.
+- 35+ projects across client work, internal tools, dashboards, and web platforms.
+- First-Class Honours in Information Technology and Business Information Systems.
+- Current work spans data development, AI evaluation, and full-stack product development.
+
+## GitHub
+
+<div align="center">
+
+![Oreva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oreva-Dev9112&show_icons=true&hide_border=true&theme=transparent)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oreva-Dev9112&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+## Contact
+
+For full-stack, product engineering, AI, or data-heavy web work:
+
+**Email:** [orevadavidumolo@gmail.com](mailto:orevadavidumolo@gmail.com)  
+**LinkedIn:** [linkedin.com/in/oreva-umolo-09a377330](https://linkedin.com/in/oreva-umolo-09a377330)  
+**GitHub:** [github.com/Oreva-Dev9112](https://github.com/Oreva-Dev9112)

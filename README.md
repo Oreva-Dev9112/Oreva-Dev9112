@@ -2,80 +2,113 @@
 
 # Oreva
 
-**Full-stack developer working across AI, data, dashboards, and product-focused web apps.**
+### Full-stack developer working across software, AI, and data.
 
-I like building useful software: interfaces that feel considered, systems that are easy to maintain, and data products that help people make decisions faster.
+I build web apps, dashboards, automation, and product ideas with a practical eye for usability, performance, and clean implementation.
 
-[Portfolio](https://github.com/Oreva-Dev9112/portfolio) · [LinkedIn](https://linkedin.com/in/oreva-umolo-09a377330) · [Email](mailto:orevadavidumolo@gmail.com)
+<p>
+  <a href="mailto:orevadavidumolo@gmail.com">Email</a>
+  ·
+  <a href="https://linkedin.com/in/oreva-umolo-09a377330">LinkedIn</a>
+  ·
+  <a href="https://github.com/Oreva-Dev9112/portfolio">Portfolio Repo</a>
+</p>
 
 </div>
 
 ---
 
-## What I Work On
+## About
 
-- Full-stack applications with React, Next.js, Node.js, PHP, and SQL.
-- Data reporting, dashboards, and analytics workflows with Python, SQL, Tableau, and Power BI.
-- AI-assisted products, evaluation workflows, automation, and practical tool-building.
-- Websites and platforms for businesses, schools, nonprofits, consultants, and internal teams.
+I work mostly with React, Next.js, TypeScript, Node.js, PHP, Python, and SQL. My recent work sits around full-stack products, reporting dashboards, AI evaluation, automation, and data-heavy interfaces.
 
-## Current Focus
+I like software that feels simple from the outside and well-structured underneath.
 
-I am refining my work around the overlap between software, data, and AI systems. Recent work has included inventory dashboards, reporting interfaces, AI evaluation tasks, content-driven sites, and small product experiments.
-
-I care about the parts that make software actually usable: clear structure, reliable data, sensible UI states, fast loading, and copy that sounds like a person wrote it.
+---
 
 ## Stack
 
-**Frontend**  
-React · Next.js · TypeScript · Tailwind CSS · Framer Motion
+<p>
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-111?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau" />
+</p>
 
-**Backend & Data**  
-Node.js · PHP · MySQL · PostgreSQL · Python · SQL
+---
 
-**AI & Automation**  
-OpenAI APIs · evaluation workflows · scripting · internal tools
+## Work
 
-**Analytics & Product Tools**  
-Tableau · Power BI · Figma · Vercel · Docker · GitHub Actions
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Portfolio</h3>
+      <p>A minimal developer portfolio built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and a small Three.js hero detail.</p>
+      <p><a href="https://github.com/Oreva-Dev9112/portfolio">View repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Smart Travel</h3>
+      <p>An AI travel planning concept that turns a simple prompt into a practical itinerary with useful trip context.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>The Gani Odutokun Foundation</h3>
+      <p>An art foundation site for galleries, events, youth programmes, and content updates.</p>
+      <p><a href="https://theganiodutokunfoundation.com/">Visit site</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>New Era Model Schools</h3>
+      <p>A school platform for e-learning, applications, timetables, and daily admin workflows.</p>
+      <p><a href="https://neweramodelschools.com/">Visit site</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Bomaret Engineering</h3>
+      <p>A corporate site for an engineering firm, focused on services, project credibility, and simple contact paths.</p>
+      <p><a href="https://bomaretengineering.com/">Visit site</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Data + AI Work</h3>
+      <p>Dashboards, SQL/Python reporting, AI evaluation, and internal tools for turning messy workflows into clearer systems.</p>
+    </td>
+  </tr>
+</table>
 
-## Projects
+---
 
-**[Portfolio](https://github.com/Oreva-Dev9112/portfolio)**  
-A refined personal site built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and a small Three.js hero moment.
+## Focus Areas
 
-**Smart Travel**  
-An AI travel planning concept that turns a simple prompt into a usable itinerary by combining model output with practical trip context.
+```txt
+Full-stack apps       React, Next.js, Node.js, PHP
+Data products         SQL, Python, Tableau, Power BI
+AI systems            evaluation, automation, OpenAI APIs
+Product execution     UX, performance, maintainability
+```
 
-**[The Gani Odutokun Foundation](https://theganiodutokunfoundation.com/)**  
-An art foundation site with galleries, event content, and programme pages designed around frequent content updates.
-
-**[New Era Model Schools](https://neweramodelschools.com/)**  
-A school platform for e-learning, applications, timetables, and daily admin, built with PHP, MySQL, and Bootstrap.
-
-**[Bomaret Engineering](https://bomaretengineering.com/)**  
-A corporate site for an engineering firm, focused on services, project credibility, and simple contact paths.
-
-## A Few Numbers
-
-- 5+ years building and shipping software projects.
-- 35+ projects across client work, internal tools, dashboards, and web platforms.
-- First-Class Honours in Information Technology and Business Information Systems.
-- Current work spans data development, AI evaluation, and full-stack product development.
+---
 
 ## GitHub
 
 <div align="center">
 
-![Oreva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oreva-Dev9112&show_icons=true&hide_border=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oreva-Dev9112&layout=compact&hide_border=true&theme=transparent)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Oreva-Dev9112&show_icons=true&hide_border=true&theme=transparent" alt="Oreva's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oreva-Dev9112&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
 </div>
 
+---
+
 ## Contact
 
-For full-stack, product engineering, AI, or data-heavy web work:
+I am open to full-stack, product engineering, AI, and data-heavy web work.
 
 **Email:** [orevadavidumolo@gmail.com](mailto:orevadavidumolo@gmail.com)  
 **LinkedIn:** [linkedin.com/in/oreva-umolo-09a377330](https://linkedin.com/in/oreva-umolo-09a377330)  

@@ -84,13 +84,15 @@ I like software that feels simple from the outside and well-structured underneat
 
 ---
 
-## Focus Areas
+## Range
 
 ```txt
-Full-stack apps       React, Next.js, Node.js, PHP
-Data products         SQL, Python, Tableau, Power BI
-AI systems            evaluation, automation, OpenAI APIs
-Product execution     UX, performance, maintainability
+Web apps              React, Next.js, TypeScript, Tailwind CSS
+Backend systems       Node.js, PHP, MySQL, PostgreSQL, REST APIs
+Data work             Python, SQL, Tableau, Power BI, dashboards
+AI + automation       OpenAI APIs, evaluation workflows, scripting
+Software basics       Java, desktop apps, file IO, auth, admin tools
+Product details       UX, performance, accessibility, maintainability
 ```
 
 ---

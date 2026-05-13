@@ -39,14 +39,22 @@ OpenAI APIs · evaluation workflows · scripting · internal tools
 **Analytics & Product Tools**  
 Tableau · Power BI · Figma · Vercel · Docker · GitHub Actions
 
-## Selected Work
+## Projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Smart Travel](https://github.com/Oreva-Dev9112/portfolio) | AI travel planning concept that turns a prompt into a usable itinerary. | Next.js · OpenAI · Tailwind |
-| [The Gani Odutokun Foundation](https://theganiodutokunfoundation.com/) | Art foundation site with galleries, events, and programme content. | WordPress · CMS · Web |
-| [Bomaret Engineering](https://bomaretengineering.com/) | Corporate site for an engineering firm with project and service pages. | WordPress · Web |
-| [New Era Model Schools](https://neweramodelschools.com/) | School platform for e-learning, applications, timetables, and daily admin. | PHP · MySQL · Bootstrap |
+**[Portfolio](https://github.com/Oreva-Dev9112/portfolio)**  
+A refined personal site built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and a small Three.js hero moment.
+
+**Smart Travel**  
+An AI travel planning concept that turns a simple prompt into a usable itinerary by combining model output with practical trip context.
+
+**[The Gani Odutokun Foundation](https://theganiodutokunfoundation.com/)**  
+An art foundation site with galleries, event content, and programme pages designed around frequent content updates.
+
+**[New Era Model Schools](https://neweramodelschools.com/)**  
+A school platform for e-learning, applications, timetables, and daily admin, built with PHP, MySQL, and Bootstrap.
+
+**[Bomaret Engineering](https://bomaretengineering.com/)**  
+A corporate site for an engineering firm, focused on services, project credibility, and simple contact paths.
 
 ## A Few Numbers
 
